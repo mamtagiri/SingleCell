@@ -1,1 +1,1 @@
-# SingleCell
+# Renaming features in Seurat object
